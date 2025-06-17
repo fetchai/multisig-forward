@@ -7,7 +7,7 @@ import subprocess
 
 
 FOUNDATION_ADDRESS = 'fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z'
-FOUNDATION_ACCOUNT_NUM = 0
+FOUNDATION_ACCOUNT_NUM = 363056
 CHAIN_ID = 'fetchhub-4'
 
 
