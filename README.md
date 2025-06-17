@@ -1,6 +1,6 @@
-# Fetch Foundation v4
+# Fetch x Forward
 
-This repo contains the code and workings of the Fetch.ai Native Foundation wallet
+This repo contains the code and workings of the cosmos-sdk native multisig wallet.
 
 ## Overview
 
