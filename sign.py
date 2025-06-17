@@ -67,7 +67,7 @@ def main():
             cmd = [
                 'git',
                 'commit',
-                '-m', f'[v4 {seq_num:03}] Signed by {args.local_key_name}'
+                '-m', f'[{seq_num:03}] Signed by {args.local_key_name}'
             ]
             subprocess.check_call(cmd)
 
