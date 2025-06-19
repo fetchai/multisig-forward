@@ -4,7 +4,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "30000000000000000000000000",
+          "amount": "36670107470863188107970139",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -13,7 +13,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "30000000000000000000000000",
+          "amount": "23329892529136811892029861",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -22,7 +22,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "2758067150000000000000000",
+          "amount": "1654840290000000000000000",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -31,7 +31,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "2758067150000000000000000",
+          "amount": "1654840290000000000000000",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -40,7 +40,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "2758067150000000000000000",
+          "amount": "1654840290000000000000000",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -49,7 +49,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "2758067150000000000000000",
+          "amount": "1654840290000000000000000",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -58,7 +58,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "2758067150000000000000000",
+          "amount": "1654840290000000000000000",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
@@ -67,11 +67,47 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
         "amount": {
-          "amount": "2758067150000000000000000",
+          "amount": "1654840290000000000000000",
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
         "validator_address": "fetchvaloper1ngggvs4vgstfjzyjxd27eplwfqveuqgzytzn24"
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "amount": {
+          "amount": "1654840290000000000000000",
+          "denom": "afet"
+        },
+        "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
+        "validator_address": "fetchvaloper1zd3v6empaqulrfaekku4e7f8ztn85khtjhq3ur"
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "amount": {
+          "amount": "1654840290000000000000000",
+          "denom": "afet"
+        },
+        "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
+        "validator_address": "fetchvaloper1a7l5xar7vyymvahfelar6vtkdar5x9a54l7zvc"
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "amount": {
+          "amount": "1654840290000000000000000",
+          "denom": "afet"
+        },
+        "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
+        "validator_address": "fetchvaloper1p3l46e2ajm8aql0fayjuqxz92mepcng4675ftn"
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "amount": {
+          "amount": "1654840290000000000000000",
+          "denom": "afet"
+        },
+        "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
+        "validator_address": "fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug"
       }
     ],
     "memo": "",
@@ -83,7 +119,7 @@
     "signer_infos": [],
     "fee": {
       "amount": [],
-      "gas_limit": "2700000",
+      "gas_limit": "2990000",
       "payer": "",
       "granter": ""
     }
