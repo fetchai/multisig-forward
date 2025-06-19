@@ -62,7 +62,7 @@
           "denom": "afet"
         },
         "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
-        "validator_address": "fetchvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf8kmpsz"
+        "validator_address": "fetchvaloper1q77f2plk5ay34gu2y7v5pdj8wxcmrr54n8wnw0"
       },
       {
         "@type": "/cosmos.staking.v1beta1.MsgDelegate",
