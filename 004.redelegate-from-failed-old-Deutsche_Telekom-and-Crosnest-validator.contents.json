@@ -1,0 +1,45 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgBeginRedelegate",
+        "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
+        "validator_src_address": "fetchvaloper1ngggvs4vgstfjzyjxd27eplwfqveuqgzytzn24",
+        "validator_dst_address": "fetchvaloper1xrlqqepyfl64mjr8x837y5slxfzlywe57rwdta",
+        "amount": {
+          "denom": "afet",
+          "amount": "1654509338509743222461517"
+        }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgBeginRedelegate",
+        "delegator_address": "fetch1z75gmchl4nx5hacnxj2ck2hg9czwa6ahy2a30z",
+        "validator_src_address": "fetchvaloper1a7l5xar7vyymvahfelar6vtkdar5x9a54l7zvc",
+        "validator_dst_address": "fetchvaloper14w6a4al72uc3fpfy4lqtg0a7xtkx3w7hda0vel",
+        "amount": {
+          "denom": "afet",
+          "amount": "1654840290000000000000000"
+        }
+      }
+    ],
+    "memo": "",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [],
+    "fee": {
+      "amount": [
+        {
+          "denom": "afet",
+          "amount": "13000000000000"
+        }
+      ],
+      "gas_limit": "1300000",
+      "payer": "",
+      "granter": ""
+    }
+  },
+  "signatures": []
+}
